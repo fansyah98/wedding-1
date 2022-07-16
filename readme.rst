@@ -65,6 +65,8 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 ***************
 Acknowledgement
 ***************
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
